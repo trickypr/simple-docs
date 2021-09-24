@@ -1,0 +1,28 @@
+{
+  "name": "simple-docs",
+  "version": "1.0.0",
+  "description": "A simple documentation generator for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trickypr/simple-docs.git"
+  },
+  "keywords": [
+    "Docs",
+    "Static",
+    "Static-site-gen"
+  ],
+  "author": "TrickyPR",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/trickypr/simple-docs/issues"
+  },
+  "homepage": "https://github.com/trickypr/simple-docs#readme",
+  "dependencies": {
+    "commander": "^8.2.0",
+    "marked": "^3.0.4"
+  }
+}
